@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ThabitaMelo
-- 👀 I’m interested in fullstack, Software Engineering and Rock'n'roll
+- 👀 I’m interested in Dev Fullstack, Terror Games and Rock'n'roll
 - 🌱 I’m currently learning programming, I'm a Web development student at University Pitagoras Mg
 
 <div align="center">
